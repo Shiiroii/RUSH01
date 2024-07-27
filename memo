@@ -1,0 +1,14 @@
+// str[0] = str[8] = str[16] = str [24];
+
+// str[2] = str[10] = str[18] = str [26];
+
+// str[4] = str[12] = str[20] = str [28];
+
+// str[6] = str[14] = str[22] = str [30];
+
+les tableaux
+
+tab[i][j]
+
+tab[1][1]
+
